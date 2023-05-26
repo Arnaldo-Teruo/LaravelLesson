@@ -66,6 +66,8 @@ php artisan serve
 <br>
 
 ## リアルタイムコンパイルを実行する
+- 上記のサーバーを起動させたターミナルは残すように
+- 別のターミナルを起動して、そこで下記コマンドを打つように
 ```bash
 npm run dev
 ```
@@ -74,10 +76,12 @@ npm run dev
 ## ブラウザからアクセスして Laravel の起動確認をする
 [http://localhost:8000](http://localhost:8000)
 <br>
+<br>
 
 ## 映画APIサービスの「TMDb」でAPIキーを取得する
 ### 参考
 [https://chocolat5.com/ja/tips/tmdb-api/](https://chocolat5.com/ja/tips/tmdb-api/)
+<br>
 <br>
 
 ## .env に TMDb で取得したキーをセットする
