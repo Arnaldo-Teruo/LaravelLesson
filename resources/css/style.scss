@@ -1,0 +1,10 @@
+@import "../bootstrap-5.0.2/scss/bootstrap";
+@import "../icons-1.8.0/font/bootstrap-icons.css";
+
+@include media-breakpoint-down(lg) {
+}
+
+img.poster {
+  width: 100px;
+  height: auto;
+}
