@@ -53,9 +53,9 @@ npm install
 ```
 <br>
 
-## マイグレーションしてDB構築をする（シーダーでデータ入力もする）
+## マイグレーションしてDB構築をする
 ```bash
-php artisan migrate --seed
+php artisan migrate
 ```
 <br>
 
